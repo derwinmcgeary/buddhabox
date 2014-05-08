@@ -21,7 +21,7 @@
   "dependencies": {
     "express": "~4.1.1",
     "logfmt": "~1.1.2"
-  }
+  },
   "scripts": {
     "start": "node web.js"
   }
