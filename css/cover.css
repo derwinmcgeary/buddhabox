@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #77D;
-  background-image: url(silhouette.png);
+  background: #77D url(silhouette.svg) center no-repeat;
 }
 body {
   color: #fff;
