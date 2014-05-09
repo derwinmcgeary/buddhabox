@@ -1,0 +1,20 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  background: url("../img/everestportrait.jpg");
+  color: #F0B400;
+  font-weight:bold;
+}
+
+.boxpic {max-width: 100%;}
+
+@media (min-width:600px) {
+  .jumbotron {
+    background: url("../img/everest.jpg");
+    color: white;
+  }
+}
