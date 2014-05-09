@@ -2,7 +2,10 @@
   "name": "buddhabox",
   "version": "0.0.1",
   "description": "Awesome modern website for YouBuddha",
-  "main": "web.js",
+  "main": "web.js", 
+  "engines": {
+    "node": "0.10.28"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
